@@ -43,12 +43,4 @@ By exploring and modifying this project, students will:
 
 > 🔺 Note: Multiplication is only allowed if the number of columns in Matrix A equals the number of rows in Matrix B.
 
----
 
-## 💻 How to Run
-
-### Step 1: Clone the Repository
-
-```bash
-git clone https://github.com/your-username/statistics-matrix-cpp.git
-cd statistics-matrix-cpp
