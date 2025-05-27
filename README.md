@@ -1,4 +1,5 @@
 # 📊 C++ Project: Statistics and Matrix Operations from Scratch
+This C++ project is designed to help **first-year college students** understand and apply key concepts in **Statistics and Basic Matrix Operations**. The program is built from scratch without any external libraries, focusing on fundamental coding and mathematics skills.
 
 ## 📘 Introduction
 
